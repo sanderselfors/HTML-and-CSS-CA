@@ -83,6 +83,7 @@ header {
     border-radius: 30px;
     cursor: pointer;
     width: 120px;
+    text-decoration: none;
   }
 
   .orderbutton:hover{

@@ -66,6 +66,7 @@ header {
     border-radius: 20px;
     width: 100px;
     cursor: pointer;
+    text-decoration: none;
   }
   .orderbutton:hover{
     color: white;

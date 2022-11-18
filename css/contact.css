@@ -91,6 +91,7 @@ header {
     cursor: pointer;
     margin-left: 82px;
     margin-top: 30px;
+    text-decoration: none;
   }
 
   .sendbutton:hover{
