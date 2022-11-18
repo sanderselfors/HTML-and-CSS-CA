@@ -98,6 +98,7 @@ header {
   background-color: #99C0D7;
   padding: 10px;
   border-radius: 30px;
+  cursor: pointer;
   }
 
   .facebook{
@@ -109,6 +110,7 @@ header {
     background-color: #99C0D7;
     padding: 10px;
     border-radius: 30px;
+    cursor: pointer;
   }
   
   .instagram{
