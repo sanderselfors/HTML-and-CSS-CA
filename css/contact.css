@@ -93,6 +93,21 @@ header {
     margin-top: 30px;
   }
 
+  .sendbutton:hover{
+    color: white;
+    transition-duration: 150ms;
+  }
+
+  .aboutbutton:hover{
+    color: white;
+    transition-duration: 150ms;
+  }
+
+  .contactbutton:hover{
+    color: white;
+    transition-duration: 150ms;
+  }
+
   .facebookcontainer{
   width: 20px;
   background-color: #99C0D7;

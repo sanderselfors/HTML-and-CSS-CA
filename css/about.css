@@ -74,3 +74,13 @@ header {
    padding: 50px;
     
   }
+
+  .aboutbutton:hover{
+    color: white;
+    transition-duration: 150ms;
+  }
+
+  .contactbutton:hover{
+    color: white;
+    transition-duration: 150ms;
+  }
