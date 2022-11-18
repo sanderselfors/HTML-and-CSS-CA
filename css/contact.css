@@ -70,7 +70,7 @@ header {
     color: black;
     display: flex;
     flex-direction: column;
-    margin: 12px;
+    margin: 3px;
     padding: 8px 20px;
     border: none;
     margin-top: 15px;
@@ -89,7 +89,7 @@ header {
     border: none;
     border-radius: 30px;
     cursor: pointer;
-    margin-left: 90px;
+    margin-left: 82px;
     margin-top: 30px;
   }
 
@@ -120,6 +120,10 @@ header {
     flex-direction: row;
     padding: 60px;
     gap: 1.5rem;
+  }
+
+  .contactform label{
+    display: none;
   }
 
   

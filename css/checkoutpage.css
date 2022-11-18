@@ -69,8 +69,8 @@ header {
     display: flex;
     flex-direction: column;
     padding: 10px;
+    margin: -3px;
     border: none;
-    margin-top: 18px;
     flex-wrap: wrap;
   }
   
@@ -112,6 +112,10 @@ header {
     align-items: center;
     margin-bottom: 50px;
   
+  }
+
+  .checkout label{
+    display: none;
   }
   
 
