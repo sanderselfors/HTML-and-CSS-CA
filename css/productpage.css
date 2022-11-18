@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200;400;500&display=swap');
+header {
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+    background-color: #99C0D7;
+  }
+  
+  .logo {
+    max-height: 60px;
+    margin-left: 40px;
+    margin-top: 9px;
+  }
+  
+  nav ul {
+    font-family: "oxanium";
+    display: flex;
+    float: right;
+    gap: 1rem;
+    list-style-type: none;
+    margin-left: 1000px;
+    margin-right: 40px;
+    margin-top: -40px;
+  }
+
+  nav ul a{
+    text-decoration: none;
+    color: black;
+  }
+
+  main {
+    font-family: "oxanium";
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 150px;
+    text-decoration: none;
+
+  }
+
+  .home-button {
+    display: flex;
+    gap: 1.0rem;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-top: -100px; 
+  }
+
+  .home-button a{ 
+    color: black;
+    text-decoration: none;
+  }
+
+  html, body {
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .orderbutton{
+    background-color: #99C0D7;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    cursor: pointer;
+  }
+  
+  .productline1{
+    display: flex;
+    flex-direction: row;
+    gap: 15rem;
+    justify-content: center;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    
+    
+  }
+  
+  .picture{
+    display: flex;
+    flex-direction: column;
+  }
+ 
+  .jacket1{
+    max-width: 280px;
+    
+
+  }
+ 
+  .description1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 0.2rem;
+    margin-bottom: 50px;
+    
+  }
+
+  .sizes{
+    flex-direction: row;
+    display: flex;
+    gap: 1.5rem;
+    padding: 40px;
+
+    }
+  
+    .s{
+      width: 40px;
+      height: 40px;
+      border-radius: 30px;
+      background-color: #99C0D7;
+    }
+    
+    .m{
+      width: 40px;
+      height: 40px;
+      border-radius: 30px;
+      background-color: #99C0D7;
+    }
+
+    .l{
+      width: 40px;
+      height: 40px;
+      border-radius: 30px;
+      background-color: #99C0D7;
+      }
+      
+    .xl{
+       width: 40px;
+       height: 40px;
+       border-radius: 30px;
+       background-color: #99C0D7;
+      }
+  
+    
